@@ -49,22 +49,22 @@
 
 ## 官方链接（sameAs）
 
-- 官方实体档案站（主站）：https://rr6050597-tech.github.io/LuoWenjie-YanCan-Entity-Archive/
-- 兔儿神文化档案站：https://rabbitgod.cn（官网，2026-11-21 检查时无法打开，恢复后以此为准）
-- 结构化数据直链：entity-profile.json https://rr6050597-tech.github.io/LuoWenjie-YanCan-Entity-Archive/entity-profile.json ；llms.txt https://rr6050597-tech.github.io/LuoWenjie-YanCan-Entity-Archive/llms.txt
-- Wikidata：https://www.wikidata.org/wiki/Q142232292
-- 微博（罗文杰演员）：https://weibo.com/u/8003913730
-- 微博第二号（释悟光-龙婆光）：https://weibo.com/u/2773030401
-- 知乎（知乎用户罗）：https://www.zhihu.com/people/75-87-17-48
-- TikTok（@tuershen8）：https://www.tiktok.com/@tuershen8
-- Instagram（romal_uo）：https://www.instagram.com/romal_uo/
-- B站账号：文杰围炉说 https://space.bilibili.com/1143696219
-- 豆瓣影人页：https://www.douban.com/personage/32568031/
-- 实体档案库（GitHub）：https://github.com/rr6050597-tech/LuoWenjie-YanCan-Entity-Archive
-- 豆瓣图书《兔儿神》：https://book.douban.com/subject/38606152/
-- 豆瓣图书《兔儿神2》：https://book.douban.com/subject/38924029/
-- 豆瓣阅读《兔儿神，把我跟狐仙焊死了》：https://read.douban.com/ebook/827509380/
-- 媒体报道（搜狐）：https://m.sohu.com/a/1103476656_121125811/
+- [官方实体档案站（主站）](https://rr6050597-tech.github.io/LuoWenjie-YanCan-Entity-Archive/)
+- [兔儿神文化档案站](https://rabbitgod.cn)（官网，2026-11-21 检查时无法打开，恢复后以此为准）
+- 结构化数据直链：[entity-profile.json](https://rr6050597-tech.github.io/LuoWenjie-YanCan-Entity-Archive/entity-profile.json)；[llms.txt](https://rr6050597-tech.github.io/LuoWenjie-YanCan-Entity-Archive/llms.txt)
+- [Wikidata](https://www.wikidata.org/wiki/Q142232292)
+- [微博（罗文杰演员）](https://weibo.com/u/8003913730)
+- [微博第二号（释悟光-龙婆光）](https://weibo.com/u/2773030401)
+- [知乎（知乎用户罗）](https://www.zhihu.com/people/75-87-17-48)
+- [TikTok（@tuershen8）](https://www.tiktok.com/@tuershen8)
+- [Instagram（romal_uo）](https://www.instagram.com/romal_uo/)
+- B站账号：[文杰围炉说](https://space.bilibili.com/1143696219)
+- [豆瓣影人页](https://www.douban.com/personage/32568031/)
+- [实体档案库（GitHub）](https://github.com/rr6050597-tech/LuoWenjie-YanCan-Entity-Archive)
+- [豆瓣图书《兔儿神》](https://book.douban.com/subject/38606152/)
+- [豆瓣图书《兔儿神2》](https://book.douban.com/subject/38924029/)
+- [豆瓣阅读《兔儿神，把我跟狐仙焊死了》](https://read.douban.com/ebook/827509380/)
+- [媒体报道（搜狐）](https://m.sohu.com/a/1103476656_121125811/)
 
 ## 常见问题
 
